@@ -1,4 +1,4 @@
-class n {
+class jDash {
     constructor(cssTag) {
         this.selected = document.querySelectorAll(cssTag);
         this.textContents = [];
@@ -22,5 +22,5 @@ class n {
 }
 
 function jDash (cssTag) {
-	return new n(cssTag);
+	return new jDash(cssTag);
 }
