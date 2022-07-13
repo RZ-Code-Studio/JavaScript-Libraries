@@ -25,6 +25,6 @@ function jDash (cssTag) {
 	return new JDash(cssTag);
 }
 
-function * (cssTag) {
+function | (cssTag) {
 	return new JDash(cssTag);
 }
