@@ -24,7 +24,3 @@ class JDash {
 function jDash (cssTag) {
 	return new JDash(cssTag);
 }
-
-function | (cssTag) {
-	return new JDash(cssTag);
-}
